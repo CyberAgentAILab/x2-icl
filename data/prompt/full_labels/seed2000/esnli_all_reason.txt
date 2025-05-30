@@ -1,0 +1,63 @@
+Premise: A little boy wearing a long-sleeve t-shirt and shorts having fun bouncing on a trampoline.
+Hypothesis: The boy is moving up and down.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Bouncing on a trampoline involves moving up and down, so the boy is moving up and down.
+Possible Reasoning for neutral: The boy could be bouncing on a trampoline without necessarily moving up and down.
+Possible Reasoning for contradiction: Bouncing on a trampoline involves moving up and down, so the hypothesis should be entailed, not contradicted.
+Label: entailment
+###
+Premise: The man in a white shirt had a flat tire on the back of his bike, and he was repairing it before he could take off again while his friend waited.
+Hypothesis: The repairs take one second.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise implies that the man is repairing the tire before continuing, which suggests the repairs are completed quickly, supporting the hypothesis.
+Possible Reasoning for neutral: The premise does not specify the duration of the repairs, so it is possible but not certain that the repairs take one second.
+Possible Reasoning for contradiction: Repairing a flat tire typically takes longer than one second.
+Label: contradiction
+###
+Premise: A young boy in school uses scissors to cut paper.
+Hypothesis: A boy works on an art project in school.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Using scissors to cut paper in school implies the boy is working on an art project.
+Possible Reasoning for neutral: Using scissors to cut paper does not necessarily mean the boy is working on an art project.
+Possible Reasoning for contradiction: Using scissors to cut paper does not necessarily mean the boy is working on an art project.
+Label: neutral
+###
+Premise: A man in a jean jacket is sitting outside painting.
+Hypothesis: There is a man outside.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A man in a jean jacket is sitting outside, so there is a man outside.
+Possible Reasoning for neutral: The premise does not confirm that the man is outside, as he could be sitting in an open area that is not necessarily outside.
+Possible Reasoning for contradiction: The premise states that a man is outside painting, which contradicts the label. The correct label should be entailment, as the premise supports the hypothesis that there is a man outside.
+Label: entailment
+###
+Premise: A dog knocking over potted plants in a yard covered in leaves.
+Hypothesis: A german shepard tearing up a garden.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A dog knocking over potted plants in a yard can be described as a German shepherd tearing up a garden.
+Possible Reasoning for neutral: A dog knocking over potted plants does not necessarily mean it is a German shepherd tearing up a garden.
+Possible Reasoning for contradiction: A dog knocking over potted plants is not the same as a German shepherd tearing up a garden.
+Label: neutral
+###
+Premise: A small child waves two flags in a park!
+Hypothesis: a kid plays indoors.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states the child is in a park, which is outdoors, contradicting the hypothesis that the kid plays indoors.
+Possible Reasoning for neutral: A small child waving flags in a park does not imply the child is playing indoors.
+Possible Reasoning for contradiction: A small child waving flags in a park cannot be playing indoors at the same time.
+Label: contradiction
+###
+Premise: The beast may ruin the objects.
+Hypothesis: It's possible the items will get destroyed by the beast.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: If the beast may ruin the objects, it is possible the items will get destroyed by the beast.
+Possible Reasoning for neutral: The premise suggests the beast may ruin the objects, but it does not confirm that the items will get destroyed.
+Possible Reasoning for contradiction: The premise suggests the possibility of ruin, not certainty, while the hypothesis implies certainty of destruction.
+Label: entailment
+###
+Premise: Three people are organizing diving equipment on the deck of a boat.
+Hypothesis: A woman and two men are standing on a boat.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Three people organizing diving equipment on a boat implies that a woman and two men could be standing on the boat.
+Possible Reasoning for neutral: The premise mentions three people organizing equipment, but it does not specify their genders or that they are standing, so the hypothesis is possible but not certain.
+Possible Reasoning for contradiction: The premise mentions three people organizing equipment, but does not specify their genders, so it cannot be concluded that there is a woman and two men.
+Label: neutral

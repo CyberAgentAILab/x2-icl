@@ -1,0 +1,16 @@
+Assume that you're an expert working on natural language inference tasks. Given a premise, a hypothesis, and the corresponding label, please write a concise and precise reason to explain why the label is assigned to the example by following the provided examples:
+
+Premise: A boy peers out of an open window.
+Hypothesis: The boy looks out the window.
+Label: entailment
+Reason: The boy peers out of a window, so the boy looks out the window.
+###
+Premise: A kid doing a trick on a skateboard.
+Hypothesis: The kid eating lunch inside the cafeteria.
+Label: contradiction
+Reason: The kid cannot be doing a trick and eating lunch at the same time
+###
+Premise: A man jumps off of his skateboard on the top of a cement ramp.
+Hypothesis: a man jumps off a skateboard at the top of a ramp.
+Label: neutral
+Reason: A man can jump off a skateboard without being at the top of a ramp.

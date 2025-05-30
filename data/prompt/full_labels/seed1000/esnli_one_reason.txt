@@ -1,0 +1,39 @@
+Premise: A group of children sitting in chairs with monitors over them.
+Hypothesis: The kids are in chairs.
+Reason: If the children are sitting in chairs, then the kids are in chairs.
+Label: entailment
+###
+Premise: A young woman with elaborately designed hair is playing a game on a Game Boy.
+Hypothesis: An old man is watching tv.
+Reason: A young woman playing a game cannot be an old man watching TV at the same time.
+Label: contradiction
+###
+Premise: A man in a black shirt appears to be jumping in the air holding two boards with a sign saying "stomp" in the background.
+Hypothesis: A man in a black shirt protesting.
+Reason: Holding boards with a sign saying "stomp" does not necessarily indicate that the man is protesting.
+Label: neutral
+###
+Premise: The curly man wearing gloves is raking the grass.
+Hypothesis: He is working outside.
+Reason: Raking the grass is an activity that takes place outside, so he is working outside.
+Label: entailment
+###
+Premise: A black dog runs down a snowy hill with his legs deep in the snow.
+Hypothesis: A black dog runs through the snow chasing the cat.
+Reason: The premise mentions a black dog running down a snowy hill, but it does not specify that the dog is chasing a cat.
+Label: neutral
+###
+Premise: Man in boat wearing athletic shorts, a backwards baseball cap and sunglasses unhooks a fish he has caught while fishing.
+Hypothesis: His bald head is being burned by the sun.
+Reason: The man is wearing a backwards baseball cap, so his head is not exposed to the sun.
+Label: contradiction
+###
+Premise: There is a group of 8 young children holding sticks while standing in the grass.
+Hypothesis: 8 children are standing in the grass.
+Reason: The premise states there are 8 young children standing in the grass, which directly supports the hypothesis.
+Label: entailment
+###
+Premise: Three people gathering and binding sticks or brush.
+Hypothesis: Some people are working hard to gather and bind sticks.
+Reason: The premise states that people are gathering and binding sticks, but it does not specify that they are working hard.
+Label: neutral

@@ -1,0 +1,63 @@
+Premise: A group of people walking down a road a long road, in the suburbs.
+Hypothesis: There is a group of people.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A group of people walking down a road implies that there is a group of people.
+Possible Reasoning for neutral: The premise mentions a group of people walking, but it does not confirm the existence of a group, as the hypothesis is too general.
+Possible Reasoning for contradiction: The premise states that there is a group of people, so the hypothesis cannot be a contradiction.
+Label: entailment
+###
+Premise: A child looks over her mother's shoulder.
+Hypothesis: A child is climbing a tree.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise does not support the hypothesis, as looking over a shoulder does not imply climbing a tree.
+Possible Reasoning for neutral: A child can look over her mother's shoulder without climbing a tree.
+Possible Reasoning for contradiction: A child cannot be looking over her mother's shoulder and climbing a tree simultaneously.
+Label: contradiction
+###
+Premise: People walking on a sidewalk past a parked train.
+Hypothesis: Some people and a passenger train.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: People walking past a parked train implies the presence of some people and a passenger train.
+Possible Reasoning for neutral: The presence of people and a train does not necessarily imply that the train is a passenger train.
+Possible Reasoning for contradiction: The premise mentions people walking past a parked train, not a passenger train, and the hypothesis implies the presence of a passenger train, which contradicts the premise.
+Label: neutral
+###
+Premise: Two basketball players in blue and yellow uniforms with their arms held above their heads are eagerly exerting themselves to be very close to a struggling guy in white uniform with red trim who is tightly holding a basketball.
+Hypothesis: A group of men are playing basketball.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The description of basketball players exerting themselves and holding a basketball implies that a group of men are playing basketball.
+Possible Reasoning for neutral: The premise describes a specific scenario involving basketball players, but it does not confirm that they are playing a game, only that they are exerting themselves and holding a basketball.
+Possible Reasoning for contradiction: The premise describes only three basketball players, not a group.
+Label: entailment
+###
+Premise: Woman wearing a long red garment and hat, holding a baby with a little girl next to her in front of a hut.
+Hypothesis: The native woman and her daughters are preparing to go inside to prepare the evening meal.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise describes a woman with a baby and a little girl, which aligns with the hypothesis mentioning a native woman and her daughters.
+Possible Reasoning for neutral: The premise does not provide information about the woman's intentions or actions related to preparing a meal.
+Possible Reasoning for contradiction: The premise does not mention the woman preparing to go inside or preparing a meal, contradicting the hypothesis.
+Label: neutral
+###
+Premise: A man at a skate park is doing an ollie out of a bowl near a beach.
+Hypothesis: A man in a skate park is messing up an ollie in a half-pipe near the beach.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The man is doing an ollie out of a bowl, which implies he is successfully performing the trick, not messing it up.
+Possible Reasoning for neutral: The man is doing an ollie out of a bowl, which does not necessarily mean he is messing up an ollie in a half-pipe.
+Possible Reasoning for contradiction: The man is doing an ollie successfully, not messing it up, and the location is a bowl, not a half-pipe.
+Label: contradiction
+###
+Premise: A woman is dancing on stage in front of a screen.
+Hypothesis: A woman performing a dance.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Dancing on stage implies that the woman is performing a dance.
+Possible Reasoning for neutral: A woman can be dancing on stage without necessarily performing a dance.
+Possible Reasoning for contradiction: Dancing on stage implies performing a dance, so the label should be entailment, not contradiction.
+Label: entailment
+###
+Premise: Two men are cooking food on a grill.
+Hypothesis: Bob and bill were cooking.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Two men cooking food on a grill implies that Bob and Bill could be the ones cooking.
+Possible Reasoning for neutral: The premise does not specify the names of the men, so it is unclear if they are Bob and Bill.
+Possible Reasoning for contradiction: The premise does not specify the names of the men, so it cannot be concluded that they are Bob and Bill.
+Label: neutral

@@ -1,0 +1,13 @@
+Assume that you're an expert working on paraphrase identification tasks. Given questions 1 and 2 and the corresponding label, please write a concise and precise reason to explain why the label is assigned to the example by following the provided examples:
+
+Question 1: Does life get harder as you get older?
+Question 2: Does life really get harder as you get older?
+Question: Do both questions ask the same thing?
+Label: yes
+Reason: Both questions ask whether life does get harder as you get older.
+###
+Question 1: What is the National nanotechnology initiative?
+Question 2: What is the lead time for SSN4EGS411 board?
+Question: Do both questions ask the same thing?
+Label: no
+Reason: completely different questions

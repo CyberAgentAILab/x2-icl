@@ -1,0 +1,63 @@
+Premise: A woman in a white robe is sitting on a counter putting on makeup.
+Hypothesis: A woman is wearing white.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A woman in a white robe is wearing white.
+Possible Reasoning for neutral: The premise mentions a white robe, but it does not confirm that the woman is wearing white clothing.
+Possible Reasoning for contradiction: The premise states the woman is in a white robe, not necessarily wearing white clothing.
+Label: entailment
+###
+Premise: The lights at night in the city.
+Hypothesis: The city is dark because of a blackout.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The lights at night in the city indicate that the city is not dark, contradicting the hypothesis of a blackout.
+Possible Reasoning for neutral: The presence of lights at night does not necessarily indicate that the city is experiencing a blackout.
+Possible Reasoning for contradiction: The presence of lights at night in the city contradicts the city being dark due to a blackout.
+Label: contradiction
+###
+Premise: Men playing a sport during a sunny day.
+Hypothesis: Men play some volleyball on a beach.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Playing a sport during a sunny day can include playing volleyball on a beach.
+Possible Reasoning for neutral: The premise does not specify the sport or location, so it is unclear if the men are playing volleyball on a beach.
+Possible Reasoning for contradiction: The premise does not specify the sport or location, so it cannot be assumed that the men are playing volleyball on a beach.
+Label: neutral
+###
+Premise: A closeup of a white bunny.
+Hypothesis: The animal is white.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states there is a closeup of a white bunny, which confirms that the animal is white.
+Possible Reasoning for neutral: The premise specifies a white bunny, but it does not confirm that the animal in the hypothesis is the same bunny.
+Possible Reasoning for contradiction: The premise specifies a white bunny, which contradicts the hypothesis that the animal is not white.
+Label: entailment
+###
+Premise: Two children walking on a wooden path through the woods.
+Hypothesis: Children are in the woods.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Walking on a path through the woods implies that the children are in the woods.
+Possible Reasoning for neutral: The premise mentions a wooden path through the woods, but it does not confirm that the children are in the woods.
+Possible Reasoning for contradiction: The premise states that the children are on a wooden path, not necessarily in the woods.
+Label: neutral
+###
+Premise: A male rock climber grips a large crack on the side of a ledge.
+Hypothesis: A man is at the mall.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise does not support the hypothesis, as being a rock climber gripping a ledge does not entail being at the mall. The correct label should be contradiction.
+Possible Reasoning for neutral: The premise does not provide information about the man's location, so he could be at the mall.
+Possible Reasoning for contradiction: A male rock climber gripping a crack on a ledge cannot be at the mall at the same time.
+Label: contradiction
+###
+Premise: A man in glasses, a t-shirt and shorts stands in a kitchen and cuts a tomato on top of a cutting board that rests on a kitchen table with a green tablecloth.
+Hypothesis: A man is cutting a tomato.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The man is cutting a tomato on a cutting board, so a man is cutting a tomato.
+Possible Reasoning for neutral: The premise provides additional details about the setting and attire, but it does not confirm that the man is actively cutting the tomato.
+Possible Reasoning for contradiction: The premise states that the man is cutting a tomato, so the hypothesis cannot be a contradiction.
+Label: entailment
+###
+Premise: Man in business attire speaks into a microphone.
+Hypothesis: A businessman is giving a speech.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A man in business attire speaking into a microphone implies he is likely giving a speech.
+Possible Reasoning for neutral: Speaking into a microphone does not necessarily mean the man is giving a speech.
+Possible Reasoning for contradiction: Speaking into a microphone does not necessarily mean the man is giving a speech.
+Label: neutral

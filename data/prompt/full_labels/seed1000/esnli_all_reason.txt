@@ -1,0 +1,63 @@
+Premise: A group of children sitting in chairs with monitors over them.
+Hypothesis: The kids are in chairs.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: If the children are sitting in chairs, then the kids are in chairs.
+Possible Reasoning for neutral: The premise mentions children sitting in chairs, but it does not specify if they are kids, so the hypothesis is not necessarily true.
+Possible Reasoning for contradiction: The premise states that the children are sitting in chairs, which contradicts the hypothesis that the kids are in chairs.
+Label: entailment
+###
+Premise: A young woman with elaborately designed hair is playing a game on a Game Boy.
+Hypothesis: An old man is watching tv.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise describes a young woman playing a game, which does not entail an old man watching TV.
+Possible Reasoning for neutral: The premise describes a young woman playing a game, which does not provide information about an old man watching TV.
+Possible Reasoning for contradiction: A young woman playing a game cannot be an old man watching TV at the same time.
+Label: contradiction
+###
+Premise: A man in a black shirt appears to be jumping in the air holding two boards with a sign saying "stomp" in the background.
+Hypothesis: A man in a black shirt protesting.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The man holding boards with a sign in the background suggests he is protesting.
+Possible Reasoning for neutral: Holding boards with a sign saying "stomp" does not necessarily indicate that the man is protesting.
+Possible Reasoning for contradiction: Holding boards with a sign does not necessarily mean the man is protesting.
+Label: neutral
+###
+Premise: The curly man wearing gloves is raking the grass.
+Hypothesis: He is working outside.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Raking the grass is an activity that takes place outside, so he is working outside.
+Possible Reasoning for neutral: Raking the grass suggests he might be working outside, but it is not certain.
+Possible Reasoning for contradiction: Raking the grass is an outdoor activity, so the man is working outside, contradicting the label.
+Label: entailment
+###
+Premise: A black dog runs down a snowy hill with his legs deep in the snow.
+Hypothesis: A black dog runs through the snow chasing the cat.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A black dog running down a snowy hill implies it is running through the snow, but chasing a cat is not mentioned.
+Possible Reasoning for neutral: The premise mentions a black dog running down a snowy hill, but it does not specify that the dog is chasing a cat.
+Possible Reasoning for contradiction: The premise does not mention a cat, so the dog cannot be chasing a cat.
+Label: neutral
+###
+Premise: Man in boat wearing athletic shorts, a backwards baseball cap and sunglasses unhooks a fish he has caught while fishing.
+Hypothesis: His bald head is being burned by the sun.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The man is wearing a backwards baseball cap, which suggests his head is exposed to the sun, leading to the possibility of it being burned.
+Possible Reasoning for neutral: The premise does not provide information about the man's head being bald or exposed to the sun.
+Possible Reasoning for contradiction: The man is wearing a backwards baseball cap, so his head is not exposed to the sun.
+Label: contradiction
+###
+Premise: There is a group of 8 young children holding sticks while standing in the grass.
+Hypothesis: 8 children are standing in the grass.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states there are 8 young children standing in the grass, which directly supports the hypothesis.
+Possible Reasoning for neutral: The premise specifies "young" children holding sticks, which is not mentioned in the hypothesis, making it uncertain if they are the same group.
+Possible Reasoning for contradiction: The premise states there is a group of 8 young children, but the hypothesis only mentions 8 children, which implies they may not be the same group.
+Label: entailment
+###
+Premise: Three people gathering and binding sticks or brush.
+Hypothesis: Some people are working hard to gather and bind sticks.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Three people gathering and binding sticks implies that some people are working to gather and bind sticks.
+Possible Reasoning for neutral: The premise states that people are gathering and binding sticks, but it does not specify that they are working hard.
+Possible Reasoning for contradiction: The premise does not indicate the effort level of the people, so it cannot be assumed they are working hard.
+Label: neutral

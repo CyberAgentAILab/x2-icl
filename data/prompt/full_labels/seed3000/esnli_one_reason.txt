@@ -1,0 +1,39 @@
+Premise: A group of people walking down a road a long road, in the suburbs.
+Hypothesis: There is a group of people.
+Reason: A group of people walking down a road implies that there is a group of people.
+Label: entailment
+###
+Premise: A child looks over her mother's shoulder.
+Hypothesis: A child is climbing a tree.
+Reason: A child cannot be looking over her mother's shoulder and climbing a tree simultaneously.
+Label: contradiction
+###
+Premise: People walking on a sidewalk past a parked train.
+Hypothesis: Some people and a passenger train.
+Reason: The presence of people and a train does not necessarily imply that the train is a passenger train.
+Label: neutral
+###
+Premise: Two basketball players in blue and yellow uniforms with their arms held above their heads are eagerly exerting themselves to be very close to a struggling guy in white uniform with red trim who is tightly holding a basketball.
+Hypothesis: A group of men are playing basketball.
+Reason: The description of basketball players exerting themselves and holding a basketball implies that a group of men are playing basketball.
+Label: entailment
+###
+Premise: Woman wearing a long red garment and hat, holding a baby with a little girl next to her in front of a hut.
+Hypothesis: The native woman and her daughters are preparing to go inside to prepare the evening meal.
+Reason: The premise does not provide information about the woman's intentions or actions related to preparing a meal.
+Label: neutral
+###
+Premise: A man at a skate park is doing an ollie out of a bowl near a beach.
+Hypothesis: A man in a skate park is messing up an ollie in a half-pipe near the beach.
+Reason: The man is doing an ollie successfully, not messing it up, and the location is a bowl, not a half-pipe.
+Label: contradiction
+###
+Premise: A woman is dancing on stage in front of a screen.
+Hypothesis: A woman performing a dance.
+Reason: Dancing on stage implies that the woman is performing a dance.
+Label: entailment
+###
+Premise: Two men are cooking food on a grill.
+Hypothesis: Bob and bill were cooking.
+Reason: The premise does not specify the names of the men, so it is unclear if they are Bob and Bill.
+Label: neutral

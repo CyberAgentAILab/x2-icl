@@ -1,0 +1,47 @@
+Question 1: What is a good first programming language to learn?
+Question 2: What is the most valuable programming language for the future to learn?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions focus on different aspects; one asks about a good starting language, while the other inquires about future value.
+Possible Reasoning for yes: Both questions inquire about programming languages to learn, focusing on different aspects but ultimately seeking guidance on which language to choose.
+Label: yes
+###
+Question 1: Is 6 foot 4 too tall as an ideal height for a man?
+Question 2: My height is 5'6 and I'm 14 year old boy, my mom is 5'4 and my dad is 5'7. How tall will I be?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions address different topics; one is about an ideal height for a man, while the other is about predicting future height based on parental height.
+Possible Reasoning for yes: The questions are not asking the same thing; one is about an ideal height for a man, while the other is about predicting future height based on current height and parental heights.
+Label: no
+###
+Question 1: What is best way for earning money?
+Question 2: How can I start making money? What are the best ways to make money?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks for the best way to earn money, while the second question asks how to start making money and inquires about the best ways, indicating a broader scope.
+Possible Reasoning for yes: Both questions inquire about effective methods for earning money.
+Label: yes
+###
+Question 1: Approximately how many hours have you spent on the internet till date?
+Question 2: What amount of time do you spent on the Internet?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks for a cumulative total of hours spent on the internet, while the second question asks for a current or typical amount of time spent, without specifying a timeframe.
+Possible Reasoning for yes: Both questions inquire about the amount of time spent on the internet.
+Label: no
+###
+Question 1: Does the Indian education system need a reformation?
+Question 2: Should the education system be changed in India? If so why or why not?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks if the Indian education system needs reformation, while the second question asks if it should be changed and seeks reasons for or against it, making them related but not the same.
+Possible Reasoning for yes: Both questions inquire about the necessity of changes or reforms in the Indian education system.
+Label: yes
+###
+Question 1: What are the most ridiculous statements made by Donald Trump?
+Question 2: My black friend supports Donald Trump, is that ridiculous?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions address different topics; one asks about statements made by Donald Trump, while the other inquires about the perceived ridiculousness of a friend's political support.
+Possible Reasoning for yes: Both questions involve the concept of ridiculousness in relation to Donald Trump, though they approach it from different angles.
+Label: no

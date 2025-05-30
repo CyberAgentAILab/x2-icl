@@ -1,0 +1,47 @@
+Question 1: How do I build an electromagnetic propulsion engine?
+Question 2: How would I build a magnetic propulsion system?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions differ in the type of propulsion system being inquired about, with one focusing on electromagnetic propulsion and the other on magnetic propulsion.
+Possible Reasoning for yes: Both questions inquire about the process of building a propulsion system using magnetic or electromagnetic principles.
+Label: yes
+###
+Question 1: How is the word 'calumny' used in a sentence?
+Question 2: How is the word 'mischievous' used in a sentence?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions inquire about the usage of two different words in a sentence.
+Possible Reasoning for yes: Both questions ask how a specific word is used in a sentence, differing only in the word being inquired about.
+Label: no
+###
+Question 1: Does life get harder as you get older?
+Question 2: Does life really get harder as you get older?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The second question includes the word "really," which adds an element of doubt or emphasis, making the questions slightly different in intent.
+Possible Reasoning for yes: Both questions inquire about the difficulty of life increasing with age.
+Label: yes
+###
+Question 1: What are your views on the abolishment of 500 rupees note?
+Question 2: How will the ban of Rs 500 and Rs 1000 notes affect Indian economy?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions focus on different aspects; one asks for personal views on the abolishment of the 500 rupees note, while the other inquires about the economic impact of banning both 500 and 1000 rupee notes.
+Possible Reasoning for yes: Both questions are related to the impact and opinions on the discontinuation of certain currency notes in India.
+Label: no
+###
+Question 1: Why do we call Java platform independent language when it still requires platform dependent JVM to get executed?
+Question 2: How is the Java platform independent when we need to have JVM on every machine to run Java programs?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: Although both questions address Java's platform independence, they are phrased differently and focus on different aspects of the concept.
+Possible Reasoning for yes: Both questions inquire about the concept of Java being platform independent despite the necessity of a platform-dependent JVM for execution.
+Label: yes
+###
+Question 1: What are the valence electrons of titanium?
+Question 2: What is the number of valence electrons in hydrogen? How is this determined?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions inquire about the valence electrons of different elements, titanium and hydrogen, making them distinct.
+Possible Reasoning for yes: Both questions inquire about the valence electrons of specific elements.
+Label: no

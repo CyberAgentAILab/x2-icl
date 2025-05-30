@@ -1,0 +1,63 @@
+Premise: George Jacob Gershwin ( ; September 26, 1898 July 11, 1937) was an American composer and pianist. Gershwin's compositions spanned both popular and classical genres, and his most popular melodies are widely known. Among his best-known works are the orchestral compositions "Rhapsody in Blue" (1924) and "An American in Paris" (1928) as well as the opera "Porgy and Bess" (1935).
+Hypothesis: Porgy and Bess was composed in the 1900s.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The opera "Porgy and Bess" was composed in 1935, which falls within the 1900s.
+Possible Reasoning for neutral: The premise states that "Porgy and Bess" was composed in 1935, which is within the 1900s, but it does not confirm or deny the broader claim about the entire century.
+Possible Reasoning for contradiction: Porgy and Bess was composed in 1935, which is in the 1900s, so the hypothesis is not contradicted by the premise.
+Label: entailment
+###
+Premise: Terenzo is a "comune" (municipality) in the Province of Parma in the Italian region Emilia-Romagna, located about 100 km west of Bologna and about 30 km southwest of Parma. As of 31 December 2004, it had a population of 1,250 and an area of 72.4 km2 .
+Hypothesis: Terenzo is located near Bologna, only 30 km southwest.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Terenzo is located about 100 km west of Bologna, which is consistent with being near Bologna.
+Possible Reasoning for neutral: The premise states Terenzo is about 100 km west of Bologna, not 30 km southwest, so the proximity to Bologna is uncertain.
+Possible Reasoning for contradiction: Terenzo is located about 100 km west of Bologna, not 30 km southwest, contradicting the hypothesis.
+Label: contradiction
+###
+Premise: Caroline Righton (born 26 February 1958), is an English television presenter, author and fashion designer, best known for being a presenter on the daily Breakfast Television station TV-am and being an anchor of the Channel 4 news show, The Channel Four Daily.
+Hypothesis: Caroline Righton is over 60 years old.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Caroline Righton was born in 1958, making her over 60 years old as of the current year.
+Possible Reasoning for neutral: The premise provides Caroline Righton's birth date, but it does not specify the current date, so her exact age cannot be determined.
+Possible Reasoning for contradiction: Based on the birthdate provided, Caroline Righton would be 65 years old, not contradicting the hypothesis that she is over 60.
+Label: entailment
+###
+Premise: The following is a list of athletes with dual nationality. It includes both players who can trace their origins to a foreign country and those who have attained foreign nationality during their career, as well as players who hail from semi-autonomous regions within countries.
+Hypothesis: Athletes with dual nationality can vote in either country.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise does not provide information about voting rights, so the ability to vote in either country cannot be inferred.
+Possible Reasoning for neutral: The premise does not provide information about the voting rights of athletes with dual nationality.
+Possible Reasoning for contradiction: Having dual nationality does not necessarily grant the right to vote in both countries.
+Label: neutral
+###
+Premise: Callitris columellaris is a species of coniferous tree in the family Cupressaceae (cypress family), native to most of Australia. Common names include White Cypress-pine, Murray River Cypress-pine, and Northern Cypress-pine. "Callitris columellaris" has been naturalised in Hawaii and in southern Florida.
+Hypothesis: Callitris columellaris is a type of pine tree.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Callitris columellaris is referred to as Cypress-pine, indicating it is a type of pine tree.
+Possible Reasoning for neutral: While Callitris columellaris is commonly referred to as a cypress-pine, it is not explicitly stated to be a type of pine tree, leaving room for interpretation.
+Possible Reasoning for contradiction: Callitris columellaris is a coniferous tree in the cypress family, not a pine tree.
+Label: entailment
+###
+Premise: Northeast Wisconsin Technical College, also called NWTC, is one of the 16 technical and community colleges in the Wisconsin Technical College System in the United States. The college serves nine Wisconsin counties with three campuses in Green Bay, Marinette, and Sturgeon Bay and five regional learning centers in Shawano, Oconto Falls, Crivitz, Niagara and Luxemburg.
+Hypothesis: NWTC cant serve more than nine counties.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that NWTC serves nine counties, implying it does not serve more than nine counties.
+Possible Reasoning for neutral: The premise states that NWTC serves nine counties, but it does not rule out the possibility of serving more.
+Possible Reasoning for contradiction: The premise states that NWTC serves nine counties, but it does not imply that it cannot serve more, contradicting the hypothesis.
+Label: neutral
+###
+Premise: Max Loughan (born November 14, 2002) is an American teenage science hobbyist, speaker and occasional media personality who created a crystal radio from items found around his family’s home in Incline Village, Nevada. The device, which purportedly harnesses energy from radio waves, incorporates some of the principles developed by Nikola Tesla in the early 20th Century.
+Hypothesis: Max Loughan is more than 20 years old.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: Max Loughan was born on November 14, 2002, making him more than 20 years old as of the current date.
+Possible Reasoning for neutral: The premise provides Max Loughan's birthdate, but it does not specify the current date, so his age cannot be determined.
+Possible Reasoning for contradiction: Max Loughan was born in 2002, making him younger than 20 years old.
+Label: contradiction
+###
+Premise: "Aama" (आमा) (Literally: Mother) is the first Nepali movie produced in Nepal, starring Shiva Shankar Manandhar and Bhuvan Chand (Thapa) as the leading actors. The movie was produced by the Information Department of the Nepalese Government and released on October 7, 1964. Bollywood film maker Hira Singh Khatri was invited by the late King Mahendra to direct the first Nepali movie.
+Hypothesis: Hira Singh Khatri was invited by the prime minister to direct the movie.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that Hira Singh Khatri was invited by the late King Mahendra to direct the movie, which entails that he was invited by a high-ranking official, though not specifically the prime minister.
+Possible Reasoning for neutral: The premise states that Hira Singh Khatri was invited by the late King Mahendra, not the prime minister, so it is unclear if the prime minister was involved.
+Possible Reasoning for contradiction: The premise states that Hira Singh Khatri was invited by the late King Mahendra, not the prime minister, to direct the movie.
+Label: contradiction

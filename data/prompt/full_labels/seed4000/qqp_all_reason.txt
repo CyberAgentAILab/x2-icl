@@ -1,0 +1,47 @@
+Question 1: Is a third World War imminent?
+Question 2: How close is a World War III?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: Although both questions are about the possibility of a third World War, they differ in focus; the first asks about the likelihood, while the second inquires about the proximity.
+Possible Reasoning for yes: Both questions inquire about the likelihood or proximity of a third World War occurring.
+Label: yes
+###
+Question 1: Why is Lionel Messi so brilliant?
+Question 2: Is Lionel Messi a genius?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions differ; one asks for reasons behind Messi's brilliance, while the other inquires if he is considered a genius.
+Possible Reasoning for yes: Both questions inquire about Lionel Messi's exceptional abilities.
+Label: no
+###
+Question 1: What are some of the resources to learn about IoT?
+Question 2: What are the best resources to learn about the Internet of Things (IoT)?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks for some resources, while the second question specifically asks for the best resources, indicating a difference in the scope of the inquiry.
+Possible Reasoning for yes: Both questions inquire about resources for learning about the Internet of Things (IoT).
+Label: yes
+###
+Question 1: What are some of the best CyanogenMod 12.1 themes?
+Question 2: How do I make my own cyanogen 12.1 themes?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks for recommendations of existing themes, while the second question asks for instructions on creating new themes.
+Possible Reasoning for yes: Both questions are related to CyanogenMod 12.1 themes, with one asking for the best themes and the other asking how to create them, implying a focus on themes for CyanogenMod 12.1.
+Label: no
+###
+Question 1: Which are some of the best movies of 2016?
+Question 2: What has been the best movie of 2016?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks for a list of some of the best movies, while the second question asks for a single best movie of 2016.
+Possible Reasoning for yes: Both questions inquire about the best movies of 2016, with one asking for some of the best and the other asking for the single best movie.
+Label: yes
+###
+Question 1: Study tips to pas ca ipcc?
+Question 2: If you are unhappy with your current job, would you quit right away& find another job or wait until you find a job. What are the pros & cons of each?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions address entirely different topics, with one focusing on study tips for an exam and the other on job satisfaction and decision-making.
+Possible Reasoning for yes: The questions address entirely different topics; one seeks study tips for passing an exam, while the other discusses job satisfaction and decision-making regarding employment changes.
+Label: no

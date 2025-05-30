@@ -1,0 +1,63 @@
+Premise: The Florida Scholastic Press Association (FSPA) is a not-for-profit organization founded in 1946. It is the scholastic press association for the state of Florida and its members consist of more than 300 student publications, online media teams and broadcast programs from the state. The main mission of the organization is to educate, train and support scholastic journalists and their advisers.
+Hypothesis: The FSPA has over 300 members
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that FSPA's members consist of more than 300 student publications, online media teams, and broadcast programs, which entails that FSPA has over 300 members.
+Possible Reasoning for neutral: The premise states that the FSPA's members consist of more than 300 student publications, online media teams, and broadcast programs, but it does not specify the exact number of members, so the hypothesis that the FSPA has over 300 members is not definitively supported or contradicted.
+Possible Reasoning for contradiction: The premise states that the FSPA's members consist of more than 300 student publications, online media teams, and broadcast programs, not individual members, so the hypothesis incorrectly interprets the premise.
+Label: entailment
+###
+Premise: We Have Always Lived in the Castle is an upcoming American mystery thriller film directed by Stacie Passon and written by Passon and Mark Kruger, based on the 1962 novel of the same name by Shirley Jackson. The film stars Taissa Farmiga, Alexandra Daddario, Crispin Glover, and Sebastian Stan.
+Hypothesis: We Have Always Lived in the Castle came out in 2018.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that "We Have Always Lived in the Castle" is an upcoming film, which implies it was released after the premise was written, supporting the hypothesis that it came out in 2018.
+Possible Reasoning for neutral: The premise states that the film is upcoming, but it does not provide information about its release year, so it is unclear if it came out in 2018.
+Possible Reasoning for contradiction: The premise states that the film is upcoming, which contradicts the hypothesis that it was released in 2018.
+Label: contradiction
+###
+Premise: Bucklow Rural District was, from 1894 to 1974, a local government district in the north of the administrative county of Cheshire, England. Following the Local Government Act 1972, this rural district was split between the new Greater Manchester boroughs of Trafford and Manchester, and Macclesfield, which was retained in Cheshire.
+Hypothesis: Bucklow Rural District has a population.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: A local government district, such as Bucklow Rural District, typically has a population.
+Possible Reasoning for neutral: The premise provides historical information about Bucklow Rural District but does not mention its population, so the hypothesis about its population is neither confirmed nor denied.
+Possible Reasoning for contradiction: The premise provides historical information about the administrative changes of Bucklow Rural District but does not mention anything about its population, making the hypothesis unsupported.
+Label: entailment
+###
+Premise: Jonathan Smith (born January 17, 1971), better known by his stage name Lil Jon, is an American rapper, record producer, and DJ. He was the frontman of the group Lil Jon & The East Side Boyz, which he formed in 1997, and they released several albums until 2004.
+Hypothesis: Jonathan Smith spent much of his time in China.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise provides no information about Jonathan Smith spending time in China, so the hypothesis cannot be inferred from the given information.
+Possible Reasoning for neutral: The premise provides information about Jonathan Smith's career and stage name but does not mention anything about his time spent in China, leaving the hypothesis unverified.
+Possible Reasoning for contradiction: The premise provides no information about Jonathan Smith spending time in China, and his career activities suggest he was primarily active in the United States.
+Label: neutral
+###
+Premise: Kinky is the self-titled album by Mexican group Kinky. It was released on March 26, 2002 on Nettwerk. The most popular song, Cornman, is part of the soundtrack for the PlayStation 3 video game LittleBigPlanet. Another of their songs, "Más", is featured in the PS2 video game SSX 3 and in the 2004 film Man on Fire.
+Hypothesis: "Más", is featured in the Play Station 2 video game.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that the song "Más" is featured in the PS2 video game SSX 3, which entails that it is featured in a PlayStation 2 video game.
+Possible Reasoning for neutral: The premise states that "Más" is featured in the PS2 video game SSX 3, but it does not specify that it is featured in a PlayStation 2 video game in general, leaving room for other possibilities.
+Possible Reasoning for contradiction: The premise states that "Más" is featured in the PS2 video game SSX 3, not a generic PlayStation 2 video game, making the hypothesis too vague to be true.
+Label: entailment
+###
+Premise: The Great Mall of the Bay Area (often simply called The Great Mall) is a large indoor outlet shopping mall in Milpitas, California built by Ford Motor Land Development and Petrie Dierman Kughn in 1994. It was acquired by Mills Corporation in 2003, and by the Simon Property Group in April 2007. The mall contains approximately 1.4 million square feet of gross leaseable area.
+Hypothesis: Petrie Dierman Kughn died in 2006
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise provides no information about Petrie Dierman Kughn's death, so the hypothesis cannot be entailed by the premise.
+Possible Reasoning for neutral: The premise provides information about the construction and ownership of the mall but does not provide any information about Petrie Dierman Kughn's death.
+Possible Reasoning for contradiction: The premise provides information about the construction and ownership of the mall, but it does not mention anything about Petrie Dierman Kughn's death, making the hypothesis contradictory.
+Label: neutral
+###
+Premise: Sick Individuals is a Dutch electronic dance music act consisting of Rinze "Ray" Hofstee and Joep "Jim" Smeele. The two met in Hilversum, Netherlands (2008) while studying Music Composition. Jim and Ray had been composing for television commercials until their mutual fascination for both classical and modern music inspired their business partnership in 2010, when Sick Individuals was born.
+Hypothesis: Rinze "Ray" Hofstee wasn't interested in classical music but was fascinated by modern music.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that both Rinze "Ray" Hofstee and Joep "Jim" Smeele had a mutual fascination for both classical and modern music, which implies Ray was interested in modern music.
+Possible Reasoning for neutral: The premise states that both Rinze "Ray" Hofstee and Joep "Jim" Smeele had a mutual fascination for both classical and modern music, but it does not specify individual preferences, making the hypothesis possible but not certain.
+Possible Reasoning for contradiction: The premise states that both Rinze "Ray" Hofstee and Joep "Jim" Smeele had a mutual fascination for both classical and modern music, contradicting the hypothesis that Ray wasn't interested in classical music.
+Label: contradiction
+###
+Premise: The Deserve the Future Tour was a worldwide concert tour by American rock supergroup Them Crooked Vultures. The tour began on August 9, 2009, and ran until July 30, 2010, after a run of shows in Japan, and visited North America, Europe and Oceania. The tour was in support of the band's debut album.
+Hypothesis: The Deserve the Future Tour ran for 4 years.
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for entailment: The premise states that the tour ran from August 9, 2009, to July 30, 2010, which is less than 4 years, contradicting the hypothesis.
+Possible Reasoning for neutral: The premise does not specify the total duration of the tour, only the start and end dates, so it is unclear if the tour ran for 4 years.
+Possible Reasoning for contradiction: The tour ran from August 9, 2009, to July 30, 2010, which is less than one year, not four years.
+Label: contradiction

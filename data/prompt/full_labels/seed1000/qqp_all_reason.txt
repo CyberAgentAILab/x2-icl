@@ -1,0 +1,47 @@
+Question 1: How can I be like Sheldon Cooper?
+Question 2: How do I become like Sheldon Cooper?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions are similar but differ in phrasing; one asks "how can I" while the other asks "how do I," which may imply different contexts or intentions.
+Possible Reasoning for yes: Both questions inquire about the process of becoming like Sheldon Cooper.
+Label: yes
+###
+Question 1: Why can't some people think for themselves?
+Question 2: Why don't people think for themselves?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions differ in scope; the first asks about a subset of people, while the second refers to people in general.
+Possible Reasoning for yes: Both questions inquire about the reasons why people may not think independently.
+Label: no
+###
+Question 1: What do people think about Anonymous?
+Question 2: What do you think about the 'Anonymous' option on Quora?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks about people's opinions on Anonymous as a group, while the second question asks for an opinion on the 'Anonymous' feature on Quora, which are different topics.
+Possible Reasoning for yes: Both questions inquire about opinions regarding "Anonymous," though the context slightly differs.
+Label: yes
+###
+Question 1: Why don't we use Solar Furnace to produce electricity?
+Question 2: Why don't we make Solar Cars?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions address different topics; one is about using solar furnaces for electricity, while the other is about making solar cars.
+Possible Reasoning for yes: Both questions inquire about the reasons for not utilizing solar technology for specific applications.
+Label: no
+###
+Question 1: What's the meaning of life?
+Question 2: "What is the meaning of ""Life""?"
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The first question asks about the meaning of life in general, while the second question specifies the meaning of "Life" as a term or title, indicating a potential difference in context.
+Possible Reasoning for yes: Both questions inquire about the meaning of life, with only a slight variation in punctuation.
+Label: yes
+###
+Question 1: What is an intuitive explanation of the fractional quantum Hall effect?
+Question 2: What is an intuitive explanation of the Quantum Hall effect?
+Question: Do both questions ask the same thing?
+Instruction: Explore the reasoning behind all the labels. Then, select the label that has the most valid reasoning.
+Possible Reasoning for no: The questions ask for explanations of different phenomena, with one focusing on the fractional quantum Hall effect and the other on the general Quantum Hall effect.
+Possible Reasoning for yes: Both questions seek an intuitive explanation of the Quantum Hall effect, with one specifying the fractional version.
+Label: no
