@@ -1,6 +1,6 @@
 # Exploring Explanations Improves the Robustness of In-Context Learning
 
-This repository implements the main experiments of our ACL 2025 paper, [Exploring Explanations Improves the Robustness of In-Context Learning]().
+This repository implements the main experiments of our ACL 2025 paper, [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378).
 In our paper, we introduce an advanced ICL framework, **X^2-ICL**, which systematically **explores explanations** for all possible labels during inference.
 This approach enables more comprehensive and robust decision-making, especially when faced with out-of-distribution data.
 
