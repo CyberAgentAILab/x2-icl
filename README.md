@@ -1,6 +1,6 @@
 # Exploring Explanations Improves the Robustness of In-Context Learning
 
-This repository implements the main experiments of our ACL 2025 paper, [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378).
+This repository implements the main experiments of our ACL 2025 paper, [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/).
 In our paper, we introduce an advanced ICL framework, **X^2-ICL**, which systematically **explores explanations** for all possible labels during inference.
 This approach enables more comprehensive and robust decision-making, especially when faced with out-of-distribution data.
 
@@ -116,22 +116,31 @@ uv run code/run_gpt.py \
 
 ```bibtex
 @inproceedings{honda-oka-2025-exploring,
-  title = "Exploring Explanations Improves the Robustness of In-Context Learning",
-  author = "Honda, Ukyo and Oka, Tatsushi",
-  booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-  year = "2025",
-  publisher = "Association for Computational Linguistics",
+    title = "Exploring Explanations Improves the Robustness of In-Context Learning",
+    author = "Honda, Ukyo and Oka, Tatsushi",
+    editor = "Che, Wanxiang and Nabende, Joyce and Shutova, Ekaterina and Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1155/",
+    doi = "10.18653/v1/2025.acl-long.1155",
+    pages = "23693--23714",
+    ISBN = "979-8-89176-251-0",
 }
 
 @inproceedings{he-etal-2024-using,
-  title = "Using Natural Language Explanations to Improve Robustness of In-context Learning",
-  author = "He, Xuanli and Wu, Yuxiang and Camburu, Oana-Maria and Minervini, Pasquale and Stenetorp, Pontus",
-  booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-  year = "2024",
-  month = aug,
-  publisher = "Association for Computational Linguistics",
-  url = "https://aclanthology.org/2024.acl-long.728/",
-  doi = "10.18653/v1/2024.acl-long.728",
-  pages = "13477--13499",
+    title = "Using Natural Language Explanations to Improve Robustness of In-context Learning",
+    author = "He, Xuanli and Wu, Yuxiang and Camburu, Oana-Maria and Minervini, Pasquale and Stenetorp, Pontus",
+    editor = "Ku, Lun-Wei and Martins, Andre and Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.728/",
+    doi = "10.18653/v1/2024.acl-long.728",
+    pages = "13477--13499",
 }
 ```
