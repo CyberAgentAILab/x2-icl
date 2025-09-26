@@ -7,7 +7,7 @@ This approach enables more comprehensive and robust decision-making, especially 
 <img src="image/x2icl_overview.png" width="400">
 
 The code is intended solely for reproducing the experiments.
-It is based on the [X-ICL](https://github.com/xlhex/acl2024_xicl.git) repository, and we gratefully acknowledge the authors of that work.
+It is based on the [X-ICL](https://github.com/xlhex/acl2024_xicl) repository, and we gratefully acknowledge the authors of that work.
 
 
 ## Environment
@@ -57,14 +57,15 @@ source .envrc
 
 ### Data
 
-Download the test data from the repository of [X-ICL](https://github.com/xlhex/acl2024_xicl.git) and place them under `data/testset`.
+Download the test data from the repository of [X-ICL](https://github.com/xlhex/acl2024_xicl) and place them under `data/testset`.
 ```bash
 git clone https://github.com/xlhex/acl2024_xicl.git
 cp -r acl2024_xicl/data/testset ./data
 rm -rf acl2024_xicl
 ```
 
-The demonstration files under [`data/prompt`](data/prompt) are named as follows:
+The demonstration files in [`data/prompt`](data/prompt) are are adapted from [X-ICL](https://github.com/xlhex/acl2024_xicl).
+The files are named as follows:
 * `xx.txt`: Demonstrations for vanilla **ICL**. `xx` corresponds to one of {`anli_v1`, `esnli_no`, `qqp_no`}.
 * `xx_one_reason.txt`: Demonstrations for **X-ICL**. `_no` omitted.
 * `xx_all_reason.txt`: Demonstrations for our **X^2-ICL**. `_no` omitted.
@@ -74,11 +75,11 @@ The demonstration files under [`data/prompt`](data/prompt) are named as follows:
 
 Below are sample commands for running the experiments. See [`script`](script) for more examples.  
 
-**NOTE:**
-* We used Azure OpenAI API for GPT-4o.
-* We used the specific version `gpt-4o-2024-08-06`, and the code assumes that the deployment name is the same.
-  - If you want to use a different deployment name, modify `model_libs` in [`code/utils_api.py`](code/utils_api.py).
-* We set the content filters to the least restrictive setting.
+> [!NOTE]
+> * We used Azure OpenAI API for GPT-4o.
+> * We used the specific version `gpt-4o-2024-08-06`, and the code assumes that the deployment name is the same.
+>   - If you want to use a different deployment name, modify `model_libs` in [`code/utils_api.py`](code/utils_api.py).
+> * We set the content filters to the least restrictive setting.
 
 ```bash
 MODEL="gpt-4o-2024-08-06"
