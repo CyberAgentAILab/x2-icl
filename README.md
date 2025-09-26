@@ -64,7 +64,7 @@ cp -r acl2024_xicl/data/testset ./data
 rm -rf acl2024_xicl
 ```
 
-The demonstration files in [`data/prompt`](data/prompt) are are adapted from [X-ICL](https://github.com/xlhex/acl2024_xicl).
+The demonstration files in [`data/prompt`](data/prompt) are adapted from [X-ICL](https://github.com/xlhex/acl2024_xicl).
 The files are named as follows:
 * `xx.txt`: Demonstrations for vanilla **ICL**. `xx` corresponds to one of {`anli_v1`, `esnli_no`, `qqp_no`}.
 * `xx_one_reason.txt`: Demonstrations for **X-ICL**. `_no` omitted.
